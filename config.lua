@@ -4,7 +4,7 @@ Config = {}
 
 Config.OpenMenu = 'I' -- Keybind used to open the HUD menu https://docs.fivem.net/docs/game-references/input-mapper-parameter-ids/keyboard/
 Config.StressChance = 0.05 -- Chance of stress levels increasing while shooting (Default: 5%)
-Config.UseMPH = true -- TRUE to use MPH / FALSE to use KMH (Changes need to be made to styles.css to display properly)
+Config.UseKPH = true -- TRUE to use MPH / FALSE to use MPH (Changes need to be made to styles.css to display properly)
 Config.MinimumStress = 60 -- Minimum stress level at which the screen will start shaking
 Config.MinimumSpeedUnbuckled = 60 -- Speed at which players will get stressed while unbuckled
 Config.MinimumSpeed = 110 -- Speed at which players will get stressed while buckled
